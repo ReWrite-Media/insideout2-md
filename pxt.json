@@ -10,7 +10,8 @@
         "README.md",
         "activity.md",
         "welcome.md",
-        "noCode.md"
+        "noCode.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [],
     "public": true,
