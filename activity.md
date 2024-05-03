@@ -21,7 +21,3 @@ The most direct path involves moving the Mind Worker ``||agent.forward 2||``, ``
     agent.move(FORWARD, 1)
     agent.move(RIGHT, 1)
 ```
-
-```package
-
-```
