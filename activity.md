@@ -23,5 +23,5 @@ The most direct path involves moving the Mind Worker ``||agent.forward 2||``, ``
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts
+
 ```

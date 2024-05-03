@@ -8,7 +8,9 @@
     },
     "files": [
         "README.md",
-        "activity.md"
+        "activity.md",
+        "welcome.md",
+        "noCode.md"
     ],
     "testFiles": [],
     "public": true,
